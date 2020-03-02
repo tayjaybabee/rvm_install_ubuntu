@@ -11,3 +11,9 @@ Python, because you can find Python on almost all systems, even ones without Rub
 ### Usage
 
 ? *coming soon*
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.

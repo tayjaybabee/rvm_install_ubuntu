@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 
 A script to install RVM and Ruby for you, so you don't have to deal with it.
